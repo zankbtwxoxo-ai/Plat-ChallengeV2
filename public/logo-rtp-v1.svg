@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a4f3ff"/>
+      <stop offset="1" stop-color="#6db7e6"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1622"/>
+      <stop offset="1" stop-color="#0d1b2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g2)"/>
+  <path d="M512 70 L880 200 L828 570 L512 920 L196 570 L144 200 Z" fill="url(#g1)" stroke="#8de0ff" stroke-width="12"/>
+  <rect x="210" y="610" rx="16" ry="16" width="604" height="140" fill="#0c1726" stroke="#8de0ff" stroke-width="4"/>
+  <text x="512" y="690" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif" font-size="88" fill="#e6f7ff" style="paint-order: stroke; stroke:#0ea5e9; stroke-width:3; letter-spacing:2">ROAD TO PLAT</text>
+</svg>

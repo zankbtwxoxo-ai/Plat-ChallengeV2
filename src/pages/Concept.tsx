@@ -20,6 +20,26 @@ const Concept: React.FC = () => {
           <h1 className="mt-4 text-3xl md:text-4xl font-bold tracking-tight text-white">
             ROAD TO PLAT – The Challenge Begins
           </h1>
+
+          {/* Boutons Discord et Twitch */}
+          <div className="mt-6 flex justify-center gap-4 flex-wrap">
+            <a
+              href="https://discord.gg/KbhQEezp3Z"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-5 py-2 rounded-xl bg-[#5865F2]/90 hover:bg-[#5865F2] transition text-white font-medium shadow-md"
+            >
+              Rejoindre le Discord
+            </a>
+            <a
+              href="https://www.twitch.tv/crazybtw"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-5 py-2 rounded-xl bg-[#9146FF]/90 hover:bg-[#9146FF] transition text-white font-medium shadow-md"
+            >
+              Live Twitch de CraZy
+            </a>
+          </div>
         </div>
       </section>
 
